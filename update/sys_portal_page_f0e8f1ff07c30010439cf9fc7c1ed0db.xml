@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2020-02-25 15:54:28">
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2020-02-26 07:43:08">
     <sys_portal_page action="INSERT_OR_UPDATE">
         <layout/>
         <order/>
@@ -128,6 +128,28 @@
                         <value>report_widget_description</value>
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 2020-02-25 06:37:26">911a75ff07c30010439cf9fc7c1ed00c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-02-26 07:40:08</sys_created_on>
+                        <sys_id>5224e14007130010439cf9fc7c1ed02c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-02-26 07:40:08</sys_updated_on>
+                        <value>center</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 2020-02-25 06:37:26">911a75ff07c30010439cf9fc7c1ed00c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-02-26 07:40:08</sys_created_on>
+                        <sys_id>5224e14007130010439cf9fc7c1ed02d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-02-26 07:40:08</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title</name>
                         <portal_section display_value="Created 2020-02-25 06:37:26">911a75ff07c30010439cf9fc7c1ed00c</portal_section>
                         <sys_created_by>admin</sys_created_by>
@@ -137,6 +159,28 @@
                         <sys_updated_by>admin</sys_updated_by>
                         <sys_updated_on>2020-02-25 14:37:26</sys_updated_on>
                         <value>Active NeedIt Requests by Type</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 2020-02-25 06:37:26">911a75ff07c30010439cf9fc7c1ed00c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-02-26 07:40:08</sys_created_on>
+                        <sys_id>5624e14007130010439cf9fc7c1ed02c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-02-26 07:40:08</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 2020-02-25 06:37:26">911a75ff07c30010439cf9fc7c1ed00c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-02-26 07:40:08</sys_created_on>
+                        <sys_id>5624e14007130010439cf9fc7c1ed02d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-02-26 07:40:08</sys_updated_on>
+                        <value>false</value>
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>renderer</name>
@@ -150,6 +194,17 @@
                         <value>com.glide.ui.portal.RenderReport</value>
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 2020-02-25 06:37:26">911a75ff07c30010439cf9fc7c1ed00c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-02-26 07:40:08</sys_created_on>
+                        <sys_id>5a24e14007130010439cf9fc7c1ed02c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-02-26 07:40:08</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>sys_id</name>
                         <portal_section display_value="Created 2020-02-25 06:37:26">911a75ff07c30010439cf9fc7c1ed00c</portal_section>
                         <sys_created_by>admin</sys_created_by>
@@ -161,6 +216,28 @@
                         <value>3c63593b07830010439cf9fc7c1ed063</value>
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 2020-02-25 06:37:26">911a75ff07c30010439cf9fc7c1ed00c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-02-26 07:40:08</sys_created_on>
+                        <sys_id>5e24e14007130010439cf9fc7c1ed02b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-02-26 07:40:08</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 2020-02-25 06:37:26">911a75ff07c30010439cf9fc7c1ed00c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-02-26 07:40:08</sys_created_on>
+                        <sys_id>5e24e14007130010439cf9fc7c1ed02c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-02-26 07:40:08</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>report_type</name>
                         <portal_section display_value="Created 2020-02-25 06:37:26">911a75ff07c30010439cf9fc7c1ed00c</portal_section>
                         <sys_created_by>admin</sys_created_by>
@@ -170,6 +247,17 @@
                         <sys_updated_by>admin</sys_updated_by>
                         <sys_updated_on>2020-02-25 14:37:26</sys_updated_on>
                         <value>donut</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 2020-02-25 06:37:26">911a75ff07c30010439cf9fc7c1ed00c</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-02-26 07:40:08</sys_created_on>
+                        <sys_id>d224e14007130010439cf9fc7c1ed02b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-02-26 07:40:08</sys_updated_on>
+                        <value>true</value>
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_subscribe</name>
